@@ -8,4 +8,4 @@ cd teaiso
 make && make install
 ln -s sid /usr/share/debootstrap/scripts/yirmibir || true
 cd ../
-mkteaiso --profile=./aleyna --output=/output/ --debug 2>&1
+mkteaiso --profile=./tahta --output=/output/ --debug 2>&1
